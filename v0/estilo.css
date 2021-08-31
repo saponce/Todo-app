@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+}
+.input{
+    text-align: center;
+}
+.listas{
+    
+    text-align: center;
+    padding: 1%;
+    
+}
+.lista1{
+     
+    border: solid 2px black  ;
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.lista2{
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 2px black  ;
+    
+}
+
+.lista3{
+    text-decoration-line: line-through;
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 2px black  ;
+    
+}
+.lista4{
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 2px black  ;
+}
+.lista5{
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 2px black  ;
+}
+.lista6{
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid 2px black  ;
+    text-decoration-line: line-through;
+    
+}
